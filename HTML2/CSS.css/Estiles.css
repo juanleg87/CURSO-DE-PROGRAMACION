@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diseño Y Construccion</title>
+</head>
+<style>
+    html{background-color: rgb(133, 149, 208);}
+    h1{background-color: aliceblue;color: rgb(242, 31, 31);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;text-align:center ;}
+    p{font-family: Arial, Helvetica, sans-serif;color: aliceblue;}
+    h2{color: rgb(28, 10, 184);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    h3{color: rgb(238, 14, 14);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;text-align: center;}
+</style>
+
+<body>
+<H1>Juan Leguizamo REDES Y DISEÑO</H1>
+<h1>Construimos tus ideas</h1>
+<h2>Alcance del Proyecto Nacional de Fibra Óptica</h2>
+<p>El Ministerio de las Tecnologías de la Información y las Comunicaciones a través del Proyecto Nacional de Fibra Óptica, buscó promover la ampliación de la infraestructura de fibra óptica existente en el país, para así llegar a un mayor número de colombianos con mejores servicios, condiciones técnicas y económicas. 
+
+    Para ello, el proyecto fomentó el despliegue de infraestructura de fibra óptica en el país, con puntos de llegada en las cabeceras de cada uno de los municipios beneficiados en el proyecto. Gracias a este proyecto, se beneficiaron 2.000 instituciones públicas para un total de 4.602.090 beneficiarios a nivel nacional.   
+    
+    La fibra óptica es una tecnología de punta que ofrece la infraestructura (backbone) necesaria para que los ciudadanos, empresas, instituciones educativas, entre otras, puedan acceder con recursos propios al servicio de Internet de banda ancha con mejores condiciones de calidad en el servicio y asequibilidad en los precios. </p>
+<p>Expertos en construcción y mantenimiento de redes de telecomunicaciones, así como construcción y mantenimiento de obras civiles y edificaciones. Contamos con 27 años de experiencia y con gran satisfacción para nuestros clientes. Estamos comprometidos con la calidad y el servicio</p>
+<p>ETB - Proyecto AA
+    Es uno de nuestros principales clientes en infraestructura de telecomunicaciones, con el cual llevamos mas de 20 años trabajando en alianza, generando en la actualidad aproximadamente 1000 empleos directos.</p>
+<h3>Servicios</h3>
+<a href="Servicios.html">Servicios</a>
+<br>
+<h3>galerias</h3>
+<a href="galerias.html">galeria</a>
+<br>
+<img src="imagenes/planeacion.jpg" alt="Planeacion"width="400"hight="400">
+<img src="imagenes/C1.JPG" alt="400"width="400"hight="400">
+<img src="imagenes/C3.JPG" alt="400"width="400"hight="400">
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaM6OEVc4o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--debo agregar mas fotos galeria-->
+<br>
+<br>
+<a href="contactanos.html"></a>
+
+</body>
+</html>
